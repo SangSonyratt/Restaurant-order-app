@@ -1,2 +1,2 @@
 # Restaurant-order-app
-I created this application for the the customer to easily order food in restaurant.
+I created this application for the customer to easily order food in restaurant.
