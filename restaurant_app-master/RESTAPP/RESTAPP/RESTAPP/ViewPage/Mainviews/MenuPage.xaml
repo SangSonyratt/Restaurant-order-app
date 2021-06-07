@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:tabview="clr-namespace:Xam.TabView;assembly=Xam.TabView"
+             xmlns:local="clr-namespace:RESTAPP.ViewPage.Mainviews.MenuComponents"
+             x:Class="RESTAPP.ViewPage.Mainviews.MenuPage" BackgroundColor="Black">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" BackgroundColor="#222" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                <Label Text="RESTAPP" FontSize="Large" TextColor="White" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image Grid.Column="0" Source="HalfImage.jpg" Aspect="AspectFill"></Image>
+                <Label Grid.Column="0" Text="Menu" FontSize="Medium" TextColor="White" HorizontalTextAlignment="Center" Margin="20"/>
+            </Grid>
+        </Grid>
+        <StackLayout Grid.Row="1">
+            <Image Source="e.png" Aspect="AspectFill"/>
+            <tabview:XFTabControl HeaderHeight="70" VerticalOptions="FillAndExpand" TabClicked="XFTabControl_TabClicked" HeaderColor="Black" HeaderTextColor="White" SelectionColor="White">
+                <tabview:XFTabControl.XFTabPages>
+                    <tabview:XFTabPage>
+                        <tabview:XFTabPage.Header>
+                            <tabview:XFTabHeader  HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                                <StackLayout>
+                                    <Image Source="foodIcon.png" WidthRequest="30" HeightRequest="30"/>
+                                    <Label Text="FOOD" TextColor="White"/>
+                                </StackLayout>
+                            </tabview:XFTabHeader>
+                        </tabview:XFTabPage.Header>
+                        <tabview:XFTabPage.CustomContentPage>
+                            <ContentPage>
+                                <ListView x:Name="list1" BackgroundColor="Black" ItemSelected="List_ItemSelected">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <ViewCell>
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="65"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Label VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Column="0" Text="{Binding menuList}" TextColor="White" FontSize="Small">
+                                                        <Label.Margin>
+                                                            <OnPlatform x:TypeArguments="Thickness">
+                                                                <On Platform="Android" Value="0 0 0 40"/>
+                                                            </OnPlatform>
+                                                        </Label.Margin>
+                                                    </Label>
+                                                    <Label VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Column="1" Text="{Binding priceList}" TextColor="#bbb" FontSize="Micro">
+                                                    </Label>
+                                                </Grid>
+                                            </ViewCell>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                            </ContentPage>
+                        </tabview:XFTabPage.CustomContentPage>
+                    </tabview:XFTabPage>
+                    <tabview:XFTabPage>
+                        <tabview:XFTabPage.Header>
+                            <tabview:XFTabHeader HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                                <StackLayout>
+                                    <Image Source="cakeIcon.png" WidthRequest="30" HeightRequest="30"/>
+                                    <Label Text="CAKE" TextColor="White"/>
+                                </StackLayout>
+                            </tabview:XFTabHeader>
+                        </tabview:XFTabPage.Header>
+                        <tabview:XFTabPage.CustomContentPage>
+                            <ContentPage>
+                                <ListView x:Name="list2" BackgroundColor="Black" ItemSelected="List_ItemSelected">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <ViewCell>
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="65"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Label VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Column="0" Text="{Binding menuList}" TextColor="White" FontSize="Small">
+                                                        <Label.Margin>
+                                                            <OnPlatform x:TypeArguments="Thickness">
+                                                                <On Platform="Android" Value="0 0 0 40"/>
+                                                            </OnPlatform>
+                                                        </Label.Margin>
+                                                    </Label>
+                                                    <Label VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Column="1" Text="{Binding priceList}" TextColor="#bbb" FontSize="Micro">
+                                                    </Label>
+                                                </Grid>
+                                            </ViewCell>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                            </ContentPage>
+                        </tabview:XFTabPage.CustomContentPage>
+                    </tabview:XFTabPage>
+                    <tabview:XFTabPage>
+                        <tabview:XFTabPage.Header>
+                            <tabview:XFTabHeader HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                                <StackLayout>
+                                    <Image Source="coffeeIcon.jpg" WidthRequest="30" HeightRequest="30"/>
+                                    <Label Text="COFFEE" TextColor="White"/>
+                                </StackLayout>
+                            </tabview:XFTabHeader>
+                        </tabview:XFTabPage.Header>
+                        <tabview:XFTabPage.CustomContentPage>
+                            <ContentPage>
+                                <ListView x:Name="list3" BackgroundColor="Black" ItemSelected="List_ItemSelected">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <ViewCell>
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="65"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Label VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Column="0" Text="{Binding menuList}" TextColor="White" FontSize="Small">
+                                                        <Label.Margin>
+                                                            <OnPlatform x:TypeArguments="Thickness">
+                                                                <On Platform="Android" Value="0 0 0 40"/>
+                                                            </OnPlatform>
+                                                        </Label.Margin>
+                                                    </Label>
+                                                    <Label VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Column="1" Text="{Binding priceList}" TextColor="#bbb" FontSize="Micro">
+                                                    </Label>
+                                                </Grid>
+                                            </ViewCell>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                            </ContentPage>
+                        </tabview:XFTabPage.CustomContentPage>
+                    </tabview:XFTabPage>
+                    <tabview:XFTabPage>
+                        <tabview:XFTabPage.Header>
+                            <tabview:XFTabHeader HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                                <StackLayout>
+                                    <Image Source="acoholIcon.png" WidthRequest="30" HeightRequest="30"/>
+                                    <Label Text="ALCOHOL" TextColor="White"/>
+                                </StackLayout>
+                            </tabview:XFTabHeader>
+                        </tabview:XFTabPage.Header>
+                        <tabview:XFTabPage.CustomContentPage>
+                            <ContentPage>
+                                <ListView x:Name="list4" BackgroundColor="Black" ItemSelected="List_ItemSelected">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <ViewCell>
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="*"/>
+                                                        <ColumnDefinition Width="65"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <Label VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Column="0" Text="{Binding menuList}" TextColor="White" FontSize="Small">
+                                                        <Label.Margin>
+                                                            <OnPlatform x:TypeArguments="Thickness">
+                                                                <On Platform="Android" Value="0 0 0 40"/>
+                                                            </OnPlatform>
+                                                        </Label.Margin>
+                                                    </Label>
+                                                    <Label VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Column="1" Text="{Binding priceList}" TextColor="#bbb" FontSize="Micro">
+                                                    </Label>
+                                                </Grid>
+                                            </ViewCell>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                            </ContentPage>
+                        </tabview:XFTabPage.CustomContentPage>
+                    </tabview:XFTabPage>
+                </tabview:XFTabControl.XFTabPages>
+            </tabview:XFTabControl>
+        </StackLayout>
+    </Grid>
+</ContentPage>

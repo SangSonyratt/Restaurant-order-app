@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit"
+             x:Class="RESTAPP.ViewPage.Mainviews.MenuComponents.MenuDetails" BackgroundImageSource="e.png">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="70"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" BackgroundColor="#222" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="1" Text="RESTAPP" FontSize="Large" TextColor="White" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+                    <Grid Grid.Column="2" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Text="00" TextColor="White" FontSize="Small" VerticalTextAlignment="Center" HorizontalOptions="End"/>
+                        <Image Grid.Column="1" Source="RetialIcon.png" WidthRequest="30" HeightRequest="30" VerticalOptions="Center" HorizontalOptions="Start">
+                            <Image.Margin>
+                                <OnPlatform x:TypeArguments="Thickness">
+                                    <On Platform="Android" Value="0,0,20,0"/>
+                                </OnPlatform>
+                            </Image.Margin>
+                        </Image>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image x:Name="Myimage" Grid.Column="0" Aspect="AspectFit"></Image>
+                    <Label x:Name="menuName" Grid.Column="0" FontSize="Medium" TextColor="White" HorizontalTextAlignment="Center" Margin="20"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="5.5*"/>
+                    <RowDefinition Height="3.5*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <StackLayout Grid.Row="0" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                    <Label x:Name="price" HorizontalTextAlignment="Center" TextColor="White"/>
+                    <Label Text="SIZE" FontSize="Medium" HorizontalTextAlignment="Center" TextColor="White"/>
+                    <input:RadioButtonGroupView>
+                        <FlexLayout JustifyContent="Center" HorizontalOptions="CenterAndExpand">
+                            <input:RadioButton Text="S" TextFontSize="13" TextColor="#bbb" CircleColor="White" Color="White" IsChecked="True">
+                                <input:RadioButton.Margin>
+                                    <OnPlatform x:TypeArguments="Thickness">
+                                        <On Platform="Android" Value="0,0,25,0"/>
+                                    </OnPlatform>
+                                </input:RadioButton.Margin>
+                            </input:RadioButton>
+                            <input:RadioButton Text="M" TextFontSize="13" TextColor="#bbb" CircleColor="White" Color="White">
+                                <input:RadioButton.Margin>
+                                    <OnPlatform x:TypeArguments="Thickness">
+                                        <On Platform="Android" Value="0,0,25,0"/>
+                                    </OnPlatform>
+                                </input:RadioButton.Margin>
+                            </input:RadioButton>
+                            <input:RadioButton Text="L" TextFontSize="13" TextColor="#bbb" CircleColor="White" Color="White"></input:RadioButton>
+                        </FlexLayout>
+                    </input:RadioButtonGroupView>
+                    <Label x:Name="ingredient" HorizontalTextAlignment="Center" FontSize="11" TextColor="#bbb">
+                        <Label.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android" Value="30,10"/>
+                            </OnPlatform>
+                        </Label.Margin>
+                    </Label>
+                </StackLayout>
+                <StackLayout Grid.Row="1" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand">
+                    <Button Text="ADD TO CART" TextColor="White" HeightRequest="35" Margin="5" BackgroundColor="Transparent" BorderColor="White" BorderRadius="23" BorderWidth="1" HorizontalOptions="CenterAndExpand" FontFamily="Roboto">
+                        <Button.Padding>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android" Value="0 35"/>
+                            </OnPlatform>
+                        </Button.Padding>
+                    </Button>
+                    <Button Clicked="Payment_button" Text="PAYMENT" TextColor="White" HeightRequest="35" BackgroundColor="Transparent" BorderColor="White" BorderRadius="23" BorderWidth="1" HorizontalOptions="CenterAndExpand" FontFamily="Roboto">
+                        <Button.Padding>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android" Value="0 45"/>
+                            </OnPlatform>
+                        </Button.Padding>
+                    </Button>
+                </StackLayout>
+                <Grid Grid.Row="2" VerticalOptions="CenterAndExpand">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Text="Previous" TextDecorations="Underline" TextColor="#bbb" VerticalTextAlignment="Center" HorizontalTextAlignment="Start">
+                        <Label.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android" Value="0 45"/>
+                            </OnPlatform>
+                        </Label.Margin>
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_PreviousTapped"/>
+                        </Label.GestureRecognizers>
+                    </Label>
+                    <Label Grid.Column="1" Text="Back to menu" TextColor="White" HorizontalTextAlignment="Center" TextDecorations="Underline" VerticalTextAlignment="Center">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_BackToMenuTapped"/>
+                        </Label.GestureRecognizers>
+                    </Label>
+                    <Label Grid.Column="2" Text="Next" TextDecorations="Underline" TextColor="#bbb" VerticalTextAlignment="Center" HorizontalTextAlignment="End">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_NextTapped"/>
+                        </Label.GestureRecognizers>
+                        <Label.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android" Value="0 45"/>
+                            </OnPlatform>
+                        </Label.Margin>
+                    </Label>
+                </Grid>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
+    

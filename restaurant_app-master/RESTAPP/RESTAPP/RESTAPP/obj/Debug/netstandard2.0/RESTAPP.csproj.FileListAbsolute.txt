@@ -1,0 +1,43 @@
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\bin\Debug\netstandard2.0\RESTAPP.deps.json
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\bin\Debug\netstandard2.0\RESTAPP.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\bin\Debug\netstandard2.0\RESTAPP.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.csprojAssemblyReference.cache
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\Authentication\LoginPage.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\Authentication\SignupPage.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.csproj.CoreCompileInputs.cache
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.AssemblyInfoInputs.cache
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.AssemblyInfo.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\MainView.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\bin\Debug\netstandard2.0\RESTAPP.deps.json
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\bin\Debug\netstandard2.0\RESTAPP.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\bin\Debug\netstandard2.0\RESTAPP.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\Authentication\LoginPage.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\Authentication\SignupPage.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\MainView.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\Mainviews\MenuComponents\MenuDetails.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\Mainviews\MenuPage.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\Mainviews\Reservation.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\Master_view\Call.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\Master_view\Card.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\Master_view\Home.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\Master_view\Map.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\Master_view\Notification.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\Master_view\Settings.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\Master_view\Taxi.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\Payments\Payment.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\ResponsePage\OrderResponse.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\ViewPage\ResponsePage\ReservationResponse.xaml.g.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.csproj.CoreCompileInputs.cache
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.AssemblyInfoInputs.cache
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.AssemblyInfo.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP\obj\Debug\netstandard2.0\RESTAPP.csprojAssemblyReference.cache

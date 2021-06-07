@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RESTAPP.ViewPage.Master_view.Home" BackgroundColor="Black" BackgroundImageSource="e.png">
+    <NavigationPage.TitleView>
+        <Label Text="RESTAPP" TextColor="White" HorizontalOptions="Center" VerticalTextAlignment="Center" FontSize="Large">
+            <Label.Margin>
+                <OnPlatform x:TypeArguments="Thickness">
+                    <On Platform="Android" Value="-60,0,0,0"/>
+                </OnPlatform>
+            </Label.Margin>
+        </Label>
+    </NavigationPage.TitleView>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <Grid x:Name="innerGrid" Grid.Row="0">
+            <Image Source="half.jpg" Aspect="AspectFill"></Image>
+        </Grid>
+        <Grid x:Name="controlsGrid" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <StackLayout Grid.Row="0" VerticalOptions="EndAndExpand" HorizontalOptions="CenterAndExpand">
+                <Label Text="WELCOME" FontFamily="Roboto" HorizontalOptions="CenterAndExpand" TextColor="White" FontSize="Title"></Label>
+                <Label Text="TO OUR RESTAURANT" FontFamily="Roboto" HorizontalOptions="CenterAndExpand" TextColor="White" FontSize="Title"></Label>
+            </StackLayout>
+            <StackLayout Grid.Row="1" VerticalOptions="CenterAndExpand">
+                <Button Clicked="Menu_button" Text="MENU" FontSize="Large" Padding="12" TextColor="White" BackgroundColor="Transparent" BorderColor="White" BorderRadius="26" BorderWidth="1" HorizontalOptions="FillAndExpand" FontFamily="Roboto">
+                    <Button.Margin>
+                        <OnPlatform x:TypeArguments="Thickness">
+                            <On Platform="Android" Value="60,5"/>
+                        </OnPlatform>
+                    </Button.Margin>
+                </Button>
+                <Button Clicked="Reservation_button" Text="RESERVATION" Padding="12" FontSize="Large" TextColor="White" BackgroundColor="Transparent" BorderColor="White" BorderRadius="26" BorderWidth="1" HorizontalOptions="FillAndExpand" FontFamily="Roboto">
+                    <Button.Margin>
+                        <OnPlatform x:TypeArguments="Thickness">
+                            <On Platform="Android" Value="60,5"/>
+                        </OnPlatform>
+                    </Button.Margin>
+                </Button>
+            </StackLayout>
+            <StackLayout Grid.Row="2" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                <Label Text="THERE IS NO SINCERE" HorizontalOptions="Center" FontFamily="Roboto" TextColor="#999" FontSize="Micro"></Label>
+                <Label Text="LOVE THAN THE LOVE OF FOOD, DRINK." HorizontalOptions="Center" FontFamily="Roboto" TextColor="#999" FontSize="Micro"></Label>
+            </StackLayout>
+        </Grid>
+    </Grid>
+</ContentPage>

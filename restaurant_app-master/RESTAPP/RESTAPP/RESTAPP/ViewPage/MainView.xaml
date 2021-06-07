@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:custom="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"     
+             mc:Ignorable="d"
+            xmlns:local="clr-namespace:RESTAPP.ViewPage.Master_view"
+             x:Class="RESTAPP.ViewPage.MainView">
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu" BackgroundColor="Black">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <StackLayout Grid.Row="0" Grid.Column="0" BackgroundColor="Black" HeightRequest="100" Orientation="Horizontal">
+                    <StackLayout.Padding>
+                        <OnPlatform x:TypeArguments="Thickness">
+                            <On Platform="Android" Value="0,30"/>
+                        </OnPlatform>
+                    </StackLayout.Padding>
+                    <custom:CircleImage Source="love.jpg" VerticalOptions="CenterAndExpand" HorizontalOptions="Start" Margin="10"></custom:CircleImage>
+                    <StackLayout VerticalOptions="Center">
+                        <Label Text="Aing Singyou" FontAttributes="Bold" FontSize="20" TextColor="White" VerticalOptions="Center">
+                            <Label.Margin>
+                                <OnPlatform x:TypeArguments="Thickness">
+                                    <On Platform="Android" Value="10,0,10,0"/>
+                                </OnPlatform>
+                            </Label.Margin>
+                        </Label>
+                        <Label Text="098389908" FontSize="15" TextColor="#bbb" VerticalOptions="Center">
+                            <Label.Margin>
+                                <OnPlatform x:TypeArguments="Thickness">
+                                    <On Platform="Android" Value="10,0,10,0"/>
+                                </OnPlatform>
+                            </Label.Margin>
+                        </Label>
+                    </StackLayout>
+                </StackLayout>
+                <Grid Grid.Row="1" Grid.Column="0" BackgroundColor="Black">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Image Source="e.png" Aspect="AspectFill"></Image>
+                    <StackLayout Grid.Row="0">
+                        <ListView x:Name="NavigationList" SeparatorVisibility="None" ItemSelected="OnMenuItemSelected">
+                            <ListView.Margin>
+                                <OnPlatform x:TypeArguments="Thickness">
+                                    <On Platform="Android" Value="20,20,0,0"/>
+                                </OnPlatform>
+                            </ListView.Margin>
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <ViewCell>
+                                        <StackLayout Spacing="30" Orientation="Horizontal">
+                                            <StackLayout.Margin>
+                                                <OnPlatform x:TypeArguments="Thickness">
+                                                    <On Platform="Android" Value="0,10,0,0"/>
+                                                </OnPlatform>
+                                            </StackLayout.Margin>
+                                            <Label Text="{Binding Icon}" TextColor="White" FontSize="25" HorizontalTextAlignment="Center" FontFamily="FontAwesome">
+                                                <Label.FontFamily>
+                                                    <OnPlatform x:TypeArguments="x:String">
+                                                        <On Platform="Android">Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid</On>
+                                                        <On Platform="iOS">Font Awesome 5 Free Solid</On>
+                                                    </OnPlatform>
+                                                </Label.FontFamily>
+                                            </Label>
+                                            <Label Text="{Binding Title}" HorizontalTextAlignment="Start" TextColor="White">
+                                            </Label>
+                                        </StackLayout>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackLayout>
+                    <StackLayout Grid.Row="1" Margin="20">
+                        <Label Text="© 2019-PRESENT  RESTAPP." TextColor="#999" FontSize="11"></Label>
+                        <Label Text="All Rights Reserved" TextColor="#999" FontSize="11"></Label>
+                    </StackLayout>
+                </Grid>
+            </Grid>
+        </ContentPage>
+    </MasterDetailPage.Master>
+</MasterDetailPage>

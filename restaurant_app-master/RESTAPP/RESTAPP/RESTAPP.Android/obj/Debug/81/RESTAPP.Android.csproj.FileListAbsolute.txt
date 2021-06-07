@@ -1,0 +1,693 @@
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\RESTAPP.Android.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\RESTAPP.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\com.companyname.RESTAPP.apk
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\com.companyname.RESTAPP-Signed.apk
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\RESTAPP.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\RESTAPP.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\RESTAPP.dll.mdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\RESTAPP.Android.nuget.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\RESTAPP.Android.csprojAssemblyReference.cache
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res.flag
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\RESTAPP.Android.csproj.CoreCompileInputs.cache
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\XamlC.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\RESTAPP.Android.csproj.CopyComplete
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\RESTAPP.Android.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\RESTAPP.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\bin\com.companyname.RESTAPP.apk
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\layout\tabbar.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\layout\toolbar.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\values\styles.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\values\colors.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable\icon.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable\a.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable\b.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable\d.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable\e.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable\f.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable\c.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable\g.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable\h.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\R.cs.flag
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\R.txt
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\uploadflags.txt
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\FormsViewGroup.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\Mono.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\Mono.Security.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\mscorlib.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.Core.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.Data.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.IO.Compression.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.Net.Http.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.Numerics.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.Transactions.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.Web.Services.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.Xml.Linq.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\System.Xml.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\RESTAPP.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\mscorlib.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Core.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Xml.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Data.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\RESTAPP.dll.mdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\RESTAPP.dll.mdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\mscorlib.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\RESTAPP.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Core.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Data.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Xml.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP - Copy\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable\love.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\bin\Debug\RESTAPP.Android.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\bin\Debug\RESTAPP.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\bin\Debug\com.companyname.RESTAPP.apk
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\bin\Debug\com.companyname.RESTAPP-Signed.apk
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\bin\Debug\RESTAPP.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\bin\Debug\RESTAPP.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\build.props
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\adb.props
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\RESTAPP.Android.csprojAssemblyReference.cache
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\stamp\_BuildLibraryImportsCache.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\resourcepaths.cache
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res.flag
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\R.cs.flag
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\RESTAPP.Android.csproj.CoreCompileInputs.cache
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\XamlC.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\RESTAPP.Android.csproj.CopyComplete
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\RESTAPP.Android.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\RESTAPP.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\bin\com.companyname.RESTAPP.apk
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\layout\tabbar.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\layout\toolbar.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\values\styles.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\values\colors.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\icon.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\e.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\love.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\half.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\halfimage.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\images.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\reservation.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\arrowhead.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\arrow.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\editpic.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\R.txt
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\uploadflags.txt
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\resolvedassemblies.hash
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\RESTAPP.Android.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Autofac.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\ExifLib.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\FormsViewGroup.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\ImageCircle.Forms.Plugin.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Java.Interop.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Mono.Android.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Mono.Android.Export.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\mscorlib.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Plugin.InputKit.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Prism.Autofac.Forms.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Prism.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Prism.Forms.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\RESTAPP.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Core.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Runtime.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Xml.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Xml.Linq.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xam.TabView.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Arch.Core.Common.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Annotations.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Compat.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.UI.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.Utils.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.CustomTabs.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Design.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Fragment.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Media.Compat.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Transition.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v4.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.CardView.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.Palette.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\XLabs.Core.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\XLabs.Forms.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\XLabs.Forms.Droid.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\XLabs.Ioc.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\XLabs.Platform.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\XLabs.Platform.Droid.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\XLabs.Serialization.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\netstandard.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Data.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Numerics.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Transactions.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Drawing.Common.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.IO.Compression.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Net.Http.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Web.Services.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Mono.Security.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.ObjectModel.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.IO.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Linq.Expressions.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Collections.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Threading.Tasks.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Resources.ResourceManager.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Threading.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Reflection.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Linq.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Diagnostics.Debug.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Runtime.Extensions.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Text.Encoding.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Globalization.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.ComponentModel.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Text.RegularExpressions.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.Primitives.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Reflection.Extensions.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.Xml.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\RESTAPP.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Autofac.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Mono.Android.Export.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Prism.Autofac.Forms.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Prism.Forms.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\Prism.dll.mdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\linksrc\RESTAPP.dll.mdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\link.flag
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Autofac.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Autofac.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\ExifLib.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\ImageCircle.Forms.Plugin.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Java.Interop.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Mono.Android.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Mono.Android.Export.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Mono.Android.Export.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Mono.Security.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\mscorlib.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\netstandard.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Plugin.InputKit.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Prism.Autofac.Forms.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Prism.Autofac.Forms.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Prism.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Prism.dll.mdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Prism.Forms.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Prism.Forms.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\RESTAPP.Android.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\RESTAPP.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\RESTAPP.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\RESTAPP.dll.mdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Collections.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.ComponentModel.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Core.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Data.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Diagnostics.Debug.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Drawing.Common.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Globalization.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.IO.Compression.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.IO.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Linq.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Linq.Expressions.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Net.Http.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Numerics.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.ObjectModel.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Reflection.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Reflection.Extensions.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Resources.ResourceManager.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Runtime.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Runtime.Extensions.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.Primitives.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.Xml.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Text.Encoding.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Text.RegularExpressions.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Threading.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Threading.Tasks.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Transactions.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Web.Services.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Xml.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\System.Xml.Linq.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xam.TabView.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v4.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.Palette.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\XLabs.Core.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\XLabs.Forms.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\XLabs.Forms.Droid.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\XLabs.Ioc.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\XLabs.Platform.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\XLabs.Platform.Droid.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\XLabs.Serialization.dll
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\MonoRuntimeProvider.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\assets\machine.config
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\bin\mono.android.jar
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\static.flag
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\buildid.txt
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\media\RemotePlaybackClient_OnMessageReceivedListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\graphics\Palette_PaletteAsyncListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5923915730cfceec16457f8ba8acc92fc\XFormsApplicationDroid.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\FormsViewPager.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\FragmentContainer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\FrameRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailContainer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailPageRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_ClickListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_Container.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\PickerRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\PickerRendererBase_1.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\Platform_ModalContainer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\ShellFragmentContainer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\SwitchRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md57ee41b221e64135185687b71d8571aba\Accelerometer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md57ee41b221e64135185687b71d8571aba\Battery_ChargerMonitor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md57ee41b221e64135185687b71d8571aba\Battery_LevelMonitor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md57ee41b221e64135185687b71d8571aba\BroadcastMonitor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md57ee41b221e64135185687b71d8571aba\Gyroscope.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5423e3a95c357eb7d6aad61b4f54abbd4\RecyclerViewScrollListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md52e48bf309e2acb6bd472a2a1e1919ac3\JavaObject_1.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md528b647cdf343cd525e83b31df234f8bd\ExtendedMasterDetailRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\CalendarViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\CameraPreview.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\CameraViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\CheckBoxRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\CircleImageRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\CustomTypefaceSpan.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\DragContentViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\DynamicListViewRenderer_1.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\DynamicListViewRenderer_1_DataSource.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\ExtendedButtonRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\ExtendedEditorRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\ExtendedEntryRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\ExtendedLabelRender.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\ExtendedScrollViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\ExtendedSwitchRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\ExtendedTableViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\GesturesContentViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\GradientContentViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\GridDataSource.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\GridViewCellRenderer_ViewCellContainer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\GridViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\HybridWebViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\HybridWebViewRenderer_ChromeClient.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\HybridWebViewRenderer_Client.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\HybridWebViewRenderer_NativeWebView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\HybridWebViewRenderer_NativeWebView_MyGestureListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\HybridWebViewRenderer_Xamarin.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\HyperLinkLabelRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\IconButtonRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\IconLabelRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\ImageButtonRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\ImageGalleryRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\ImageGalleryRenderer_DataSource.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\RadioButtonRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\SensorBarDroidView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\SensorBarViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\SeparatorDroidView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\SeparatorRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md527a7103d6e2301228bd63a256515d332\WebImageRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\support\design\widget\TabLayout_OnTabSelectedListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5271986a43fea41bd4ebc2667b3d54a5d\GeolocationContinuousListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5271986a43fea41bd4ebc2667b3d54a5d\GeolocationSingleListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\AndroidActivity.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\BaseCellView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\BorderDrawable.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\BoxRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonClickListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonTouchListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellRenderer_RendererHolder.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CenterSnapHelper.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxDesignerRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRendererBase.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CircularProgress.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CollectionViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ColorChangeRevealDrawable.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ConditionalFocusLayout.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ContainerView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\CustomFrameLayout.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\DataChangeObserver.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRendererBase_1.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EdgeSnapHelper.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorEditText.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRendererBase_1.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSingleSnapHelper.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSnapHelper.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryAccessibilityDelegate.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellEditText.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryEditText.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRendererBase_1.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_FontSpan.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_LineHeightSpan.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_TextDecorationSpan.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsAppCompatActivity.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsApplicationActivity.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditText.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditTextBase.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsImageView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsSeekBar.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsTextView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebChromeClient.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebViewClient.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer_FrameDrawable.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericAnimatorListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericMenuClickListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GestureManager_TapAndPanGestureDetector.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GridLayoutSpanSizeLookup.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupedListViewAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageButtonRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_CacheEntry.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_FormsLruCache.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerGestureListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerScaleListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemContentView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\LabelRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_Container.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\LocalizedDigitsKeyListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailContainer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\NativeViewWrapperRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\NongreedySnapHelper.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ObjectJavaBox_1.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer_Renderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageContainer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedFragment.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedSupportFragment.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerEditText.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerManager_PickerListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PlatformRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\Platform_DefaultRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PositionalSmoothScroller.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\PowerSaveModeBroadcastReceiver.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ProgressBarRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollHelper.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewContainer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SearchBarRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableViewHolder.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellContentFragment.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFragmentPagerAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRendererBase.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellPageContainer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellRenderer_SplitDrawable.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_CustomFilter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView_ClipDrawableWrapper.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSectionRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SimpleViewHolder.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SingleSnapHelper.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SizedItemContentView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SliderRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SpacingItemDecoration.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSingleSnapHelper.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSnapHelper.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRendererManager_StepperListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchCellView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TabbedRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewModelRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TemplatedItemViewHolder.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextCellRenderer_TextCellView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextViewHolder.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRendererBase_1.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer_2.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementRenderer_1.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_JavascriptResult.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\v7\recyclerview\R.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\android\app\ApplicationRegistration.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\v7\mediarouter\R.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\v7\cardview\R.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\v7\appcompat\R.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\mono\MonoPackageManager_Resources.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5ffeca0b21d3d64625b97da200d27681b\AutoCompleteViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5ffeca0b21d3d64625b97da200d27681b\BoxArrayAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5ffeca0b21d3d64625b97da200d27681b\CustomFilter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5ffeca0b21d3d64625b97da200d27681b\EmptyEntryRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5ffeca0b21d3d64625b97da200d27681b\NewIconViewRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5ffeca0b21d3d64625b97da200d27681b\StatefulStackLayoutRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\transition\R.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5ffa21440d43fa9f7b0ce3fc2ebd14867\MediaPickerActivity.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\mediacompat\R.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5f630a6c6b8084f9eb99147bae7129b59\CustomPickerRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5f630a6c6b8084f9eb99147bae7129b59\CustomTimePicker.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\design\R.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5ad349817c76b03b9d7836cf3a79439ae\ImageCircleRenderer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md59cb1a53495cfdbd7308afa9013930ed7\MainActivity.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\android\support\compat\R.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md59c7bf4379c77da4a1cafc5fead80896f\KeyVaultStorage_SecureData.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md59c7bf4379c77da4a1cafc5fead80896f\Network.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md59c7bf4379c77da4a1cafc5fead80896f\NfcDevice.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md59c7bf4379c77da4a1cafc5fead80896f\NfcDevice_NfcMonitor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md59c7bf4379c77da4a1cafc5fead80896f\TextToSpeechService.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5951f1daac8310ab4f79f2797fa8f9e85\CalendarArrowView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5951f1daac8310ab4f79f2797fa8f9e85\CalendarCellView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5951f1daac8310ab4f79f2797fa8f9e85\CalendarGridView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5951f1daac8310ab4f79f2797fa8f9e85\CalendarMonthPageTransformer.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5951f1daac8310ab4f79f2797fa8f9e85\CalendarPickerView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5951f1daac8310ab4f79f2797fa8f9e85\CalendarPickerView_OnPageChangeListener.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5951f1daac8310ab4f79f2797fa8f9e85\CalendarRowView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5951f1daac8310ab4f79f2797fa8f9e85\MonthAdapter.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5951f1daac8310ab4f79f2797fa8f9e85\MonthCellDescriptor.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\md5951f1daac8310ab4f79f2797fa8f9e85\MonthView.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\bin\packaged_resources
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\src\com\companyname\restapp\R.java
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\android\bin\classes.dex
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\stamp\_BuildAdditionalResourcesCache.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\stamp\_CompileToDalvik.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\stamp\_ConvertCustomView.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\stamp\_CopyIntermediateAssemblies.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\stamp\_CopyMdbFiles.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\stamp\_CopyPdbFiles.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\stamp\_GenerateJavaStubs.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\bin\Debug\RESTAPP.dll.mdb
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\foodicon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\cakeicon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\coffeeicon.jpg
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\acoholicon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\retialicon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\minusicon.png
+D:\Training\S_Learning\Trade_work\AFirstStart\RESTAPP\RESTAPP\RESTAPP.Android\obj\Debug\81\res\drawable-xxhdpi\whiteicon.jpg

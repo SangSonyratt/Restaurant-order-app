@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RESTAPP.ViewPage.Payments.Payment" BackgroundImageSource="e.png">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="70"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" BackgroundColor="#222" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                    <Label Text="RESTAPP" FontSize="Large" TextColor="White" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Source="HalfImage.jpg" Aspect="AspectFill"></Image>
+                    <Label Grid.Column="0" Text="RESTAURANT BILL" FontSize="Medium" TextColor="White" HorizontalTextAlignment="Center" Margin="20"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="5*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Label Text="$109" FontSize="Large" TextColor="White" VerticalTextAlignment="Start" HorizontalTextAlignment="Center"/>
+                </Grid>
+                <StackLayout Grid.Row="1">
+                    <ListView x:Name="list" SeparatorVisibility="None">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="5*"/>
+                                            <ColumnDefinition Width="2*"/>
+                                            <ColumnDefinition Width="3*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Label Text="{Binding Name}" VerticalTextAlignment="Center" Grid.Column="0" TextColor="White" FontSize="Small">
+                                            <Label.Margin>
+                                                <OnPlatform x:TypeArguments="Thickness">
+                                                    <On Platform="Android" Value="0 0 0 20"/>
+                                                </OnPlatform>
+                                            </Label.Margin>
+                                        </Label>
+                                        <Label Text="{Binding Price}" VerticalTextAlignment="Center" HorizontalTextAlignment="End" Grid.Column="1" TextColor="White" FontSize="Small">
+
+                                        </Label>
+                                        <StackLayout Grid.Column="2" Orientation="Horizontal" HorizontalOptions="EndAndExpand">
+                                            <Image Source="minusIcon.png" WidthRequest="10" HeightRequest="10">
+                                                <Image.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding MinusBtn}"/>
+                                                </Image.GestureRecognizers>
+                                            </Image>
+                                            <Label Text="00" TextColor="White" FontSize="Small" VerticalOptions="CenterAndExpand" Margin="10"/>
+                                            <Image Source="whiteIcon.png" WidthRequest="10" HeightRequest="10">
+                                                <Image.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding PlusBtn}"/>
+                                                </Image.GestureRecognizers>
+                                            </Image>
+                                            <StackLayout.Margin>
+                                                <OnPlatform x:TypeArguments="Thickness">
+                                                    <On Platform="Android" Value="0 20 0 0"/>
+                                                </OnPlatform>
+                                            </StackLayout.Margin>
+                                        </StackLayout>
+                                    </Grid>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+                <Grid Grid.Row="2" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+                    <Button Clicked="Button_Clicked" Text="Payment" FontSize="Small" TextColor="White" BackgroundColor="Transparent" BorderColor="White" BorderRadius="23" BorderWidth="1" HorizontalOptions="FillAndExpand" FontFamily="Roboto">
+                        <Button.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android" Value="0 80"/>
+                            </OnPlatform>
+                        </Button.Margin>
+                    </Button>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <Label Text="OR" FontSize="Small" TextColor="#bbb" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Row="4">
+                    <Label Text="Pay cash to the waiter" FontSize="Small" TextColor="White" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" TextDecorations="Underline">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_PayCashTapped"></TapGestureRecognizer>
+                        </Label.GestureRecognizers>
+                    </Label>
+                </Grid>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

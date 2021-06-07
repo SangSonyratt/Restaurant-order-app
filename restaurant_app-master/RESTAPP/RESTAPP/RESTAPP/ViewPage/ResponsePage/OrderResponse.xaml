@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RESTAPP.ViewPage.ResponsePage.OrderResponse" BackgroundImageSource="e.png">
+    <Grid Grid.Row="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" BackgroundColor="#222" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Label Text="RESTAPP" FontSize="Large" TextColor="White" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+        </Grid>
+        <StackLayout Grid.Row="1">
+            <StackLayout VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="Center">
+                <Label Text="THANK YOU FOR COMING"
+                       HorizontalTextAlignment="Center"
+                       TextColor="White"
+                   FontSize="Large"/>
+                <Label Text="Hope To See You Again!!!"
+                       TextColor="#bbb"
+                       HorizontalTextAlignment="Center"
+                   FontSize="Medium"/>
+                <StackLayout.Margin>
+                    <OnPlatform x:TypeArguments="Thickness">
+                        <On Platform="Android" Value="100 0 0 0"/>
+                    </OnPlatform>
+                </StackLayout.Margin>
+            </StackLayout>
+            <Button Text="close" VerticalOptions="EndAndExpand" HorizontalOptions="CenterAndExpand" Margin="30" HeightRequest="40" TextColor="White" BackgroundColor="Transparent" BorderColor="White" BorderRadius="23" BorderWidth="1" FontFamily="Roboto" Padding="40,0"/>
+        </StackLayout>
+    </Grid>
+</ContentPage>

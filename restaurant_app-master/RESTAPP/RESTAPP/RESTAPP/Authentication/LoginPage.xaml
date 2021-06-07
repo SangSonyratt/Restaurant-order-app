@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RESTAPP.Authentication.LoginPage"
+             BackgroundImage="e.png">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="Android" Value="0,20,0,0" />
+        </OnPlatform>
+    </ContentPage.Padding>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackLayout Grid.Row="0" VerticalOptions="EndAndExpand" HorizontalOptions="CenterAndExpand">
+            <Image Source="Icon.jpg" WidthRequest="50" HeightRequest="50"></Image>
+            <Label Text="RESTAPP" FontSize="Title"  TextColor="White" FontFamily="Roboto" Margin="10" HorizontalTextAlignment="Center"></Label>
+            <StackLayout Margin="10">
+                <Label Text="KING'S ROAD ANGKOR" TextColor="#bbb" FontSize="Caption" FontFamily="Roboto" HorizontalTextAlignment="Center"/>
+                <Label Text="STREET 7 MAKARA, OLD MARKET BRIDGE" TextColor="#bbb" FontSize="Caption" FontFamily="Roboto" HorizontalTextAlignment="Center"/>
+            </StackLayout>
+        </StackLayout>
+        <StackLayout Grid.Row="1" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <Label Text="SIGN IN" FontSize="Large" TextColor="White" HorizontalTextAlignment="Center" FontFamily="Roboto"></Label>
+        </StackLayout>
+        <StackLayout Grid.Row="2" VerticalOptions="Start">
+            <StackLayout.Margin>
+                <OnPlatform x:TypeArguments="Thickness">
+                    <On Platform="Android" Value="0 80"/>
+                </OnPlatform>
+            </StackLayout.Margin>
+            <Entry Text="{Binding PhoneNumber}"
+                               MaxLength="10"
+                               Placeholder="PhoneNumber"
+                               Keyboard="Telephone"
+                               PlaceholderColor="#bbb"
+                               TextColor="White">
+            </Entry>
+            <Entry Text="{Binding Password}"
+                               Placeholder="Password"
+                               IsPassword="True"
+                               PlaceholderColor="#bbb"
+                               TextColor="White">
+            </Entry>
+            <Button Command="{Binding SubmitCommand}" Text="SUBMIT" TextColor="White" BackgroundColor="Transparent" BorderColor="White" BorderRadius="23" BorderWidth="1" HorizontalOptions="FillAndExpand" FontFamily="Roboto">
+                <Button.Margin>
+                    <OnPlatform x:TypeArguments="Thickness">
+                        <On Platform="Android" Value="10 0"/>
+                    </OnPlatform>
+                </Button.Margin>
+            </Button>
+            <Label Text="Forget Password?" Margin="5" TextColor="#bbb" FontSize="Caption" TextDecorations="Underline" HorizontalTextAlignment="Center" FontFamily="Roboto"/>
+            <StackLayout>
+                <Label Text="CONNECT WITH" TextColor="White" FontSize="Caption" HorizontalTextAlignment="Center" FontFamily="Roboto">
+                    <Label.Margin>
+                        <OnPlatform x:TypeArguments="Thickness">
+                            <On Platform="Android" Value="0 0 10 0"/>
+                        </OnPlatform>
+                    </Label.Margin>
+                </Label>
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand">
+                <FlexLayout JustifyContent="Center">
+                    <Label Text="&#xf1a0;" TextColor="White" FontSize="35">
+                        <Label.FontFamily>
+                            <OnPlatform x:TypeArguments="x:String">
+                                <On Platform="iOS">Font Awesome 5 Brands Regular</On>
+                                <On Platform="Android">Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands Regular</On>
+                            </OnPlatform>
+                        </Label.FontFamily>
+                        <Label.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android" Value="0 20"/>
+                            </OnPlatform>
+                        </Label.Margin>
+                    </Label>
+                    <Label Text="&#xf09a;" TextColor="White" FontSize="35">
+                        <Label.FontFamily>
+                            <OnPlatform x:TypeArguments="x:String">
+                                <On Platform="iOS">Font Awesome 5 Brands Regular</On>
+                                <On Platform="Android">Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands Regular</On>
+                            </OnPlatform>
+                        </Label.FontFamily>
+                        <Label.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android" Value="0 20"/>
+                            </OnPlatform>
+                        </Label.Margin>
+                    </Label>
+                    <Label Text="&#xf099;" TextColor="White" FontSize="35">
+                        <Label.FontFamily>
+                            <OnPlatform x:TypeArguments="x:String">
+                                <On Platform="iOS">Font Awesome 5 Brands Regular</On>
+                                <On Platform="Android">Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands Regular</On>
+                            </OnPlatform>
+                        </Label.FontFamily>
+                        <Label.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android" Value="0 20"/>
+                            </OnPlatform>
+                        </Label.Margin>
+                    </Label>
+                </FlexLayout>
+            </StackLayout>
+        </StackLayout>
+        <StackLayout Grid.Row="3" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <Button Clicked="Button_Clicked" FontSize="Caption" Text="Dont have an account?" TextColor="#bbb" BackgroundColor="Transparent" FontFamily="Roboto">
+                <Button.Margin>
+                    <OnPlatform x:TypeArguments="Thickness">
+                        <On Platform="Android" Value="0 0 0 15"/>
+                    </OnPlatform>
+                </Button.Margin>
+            </Button>
+        </StackLayout>
+    </Grid>
+</ContentPage>

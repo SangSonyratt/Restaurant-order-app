@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Training\\S_Learning\\Trade_work\\AFirstStart\\RESTAPP\\RESTAPP\\RESTAPP.Android\\RESTAPP.Android.csproj": {}
+  },
+  "projects": {
+    "D:\\Training\\S_Learning\\Trade_work\\AFirstStart\\RESTAPP\\RESTAPP\\RESTAPP.Android\\RESTAPP.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Training\\S_Learning\\Trade_work\\AFirstStart\\RESTAPP\\RESTAPP\\RESTAPP.Android\\RESTAPP.Android.csproj",
+        "projectName": "RESTAPP.Android",
+        "projectPath": "D:\\Training\\S_Learning\\Trade_work\\AFirstStart\\RESTAPP\\RESTAPP\\RESTAPP.Android\\RESTAPP.Android.csproj",
+        "packagesPath": "C:\\Users\\sang sonyratt\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\S_Learning\\Trade_work\\AFirstStart\\RESTAPP\\RESTAPP\\RESTAPP.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sang sonyratt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {
+              "D:\\Training\\S_Learning\\Trade_work\\AFirstStart\\RESTAPP\\RESTAPP\\RESTAPP\\RESTAPP.csproj": {
+                "projectPath": "D:\\Training\\S_Learning\\Trade_work\\AFirstStart\\RESTAPP\\RESTAPP\\RESTAPP\\RESTAPP.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Plugin.FormsStackPanel": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.CardView": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          }
+        }
+      }
+    },
+    "D:\\Training\\S_Learning\\Trade_work\\AFirstStart\\RESTAPP\\RESTAPP\\RESTAPP\\RESTAPP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Training\\S_Learning\\Trade_work\\AFirstStart\\RESTAPP\\RESTAPP\\RESTAPP\\RESTAPP.csproj",
+        "projectName": "RESTAPP",
+        "projectPath": "D:\\Training\\S_Learning\\Trade_work\\AFirstStart\\RESTAPP\\RESTAPP\\RESTAPP\\RESTAPP.csproj",
+        "packagesPath": "C:\\Users\\sang sonyratt\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\S_Learning\\Trade_work\\AFirstStart\\RESTAPP\\RESTAPP\\RESTAPP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sang sonyratt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Prism.Autofac.Forms": {
+              "target": "Package",
+              "version": "[7.1.0.431, )"
+            },
+            "Prism.Core": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            },
+            "Prism.Forms": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            },
+            "XLabs.Forms": {
+              "target": "Package",
+              "version": "[2.0.5782, )"
+            },
+            "Xam.Plugins.Forms.ImageCircle": {
+              "target": "Package",
+              "version": "[3.0.0.5, )"
+            },
+            "Xam.TabView": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            },
+            "Xamarin.Forms.InputKit": {
+              "target": "Package",
+              "version": "[3.0.12, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
